@@ -1,3 +1,3 @@
 # Alura
 
-Exercícios Propostos durante os cursos que tenho feito nas aulas da Alura.
+Exercícios Propostos durante os cursos de JAVA e Python que tenho feito pela Alura.
