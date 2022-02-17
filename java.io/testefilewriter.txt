@@ -1,0 +1,2 @@
+Teste de escrita em arquivos com o FileWriter e BufferedWriter.
+Hello Word!

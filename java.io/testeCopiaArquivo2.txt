@@ -1,0 +1,5 @@
+Dito de forma direta, o Docker é uma forma de virtualizar aplicações no conceito de “containers�?,
+trazendo da web ou de seu repositório interno uma imagem completa, incluindo todas as dependências
+necessárias para executar sua aplicação.
+
+Nessa perspectiva, cada container criado atua como uma máquina virtual flexível.
